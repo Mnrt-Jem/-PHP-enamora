@@ -1,0 +1,1 @@
+The module changes colors, fonts, enables/disables some functionality. Press Configure to learn all the features.

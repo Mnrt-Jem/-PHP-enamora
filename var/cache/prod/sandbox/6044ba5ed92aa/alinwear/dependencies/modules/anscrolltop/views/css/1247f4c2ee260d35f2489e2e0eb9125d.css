@@ -1,0 +1,29 @@
+#scrolltopbtn {
+	border: 1px solid #111111;
+	border-radius: 4px;
+	position: fixed;
+	top: auto;
+	bottom: 35px;
+	left: auto;
+	right: 45px;
+	opacity: 0.90;
+	background-color: #111111;
+	width: 55px;
+	height: 65px;
+	line-height: 65px;
+	font-size: 26px;
+	color: #ffffff;
+	text-align: center;
+	font-family: "Ionicons";
+	cursor: pointer;
+	z-index: 9999;
+
+	display: none;
+
+	-webkit-transition: opacity 0.5s linear;
+	-moz-transition: opacity 0.5s linear;
+	-o-transition: opacity 0.5s linear;
+	transition: opacity 0.5s linear;
+}
+
+#scrolltopbtn:hover { opacity: 1 }

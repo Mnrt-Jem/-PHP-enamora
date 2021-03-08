@@ -1,0 +1,1 @@
+Guides on configuration are available in the theme documentation.
